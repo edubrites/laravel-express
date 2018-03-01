@@ -21,4 +21,7 @@ Homestead.json
 
 # diretorio criado para armazenar arquivos adicionais disponibilizados no curso
 downloads-curso/
-tests/ 
+tests/
+
+# direotrio da IDE
+.idea/ 
